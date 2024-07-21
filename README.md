@@ -25,3 +25,11 @@ Named Pipes
 Network Communication
 
 Shared Files
+
+Anti VM
+
+Anti Sandbox
+
+Obfuscation
+
+Code Randomization
