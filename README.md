@@ -32,4 +32,6 @@ Anti Sandbox
 
 Obfuscation
 
+Background Image Changer
+
 Code Randomization
