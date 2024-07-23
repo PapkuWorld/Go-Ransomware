@@ -18,6 +18,22 @@ File Encryption
 
 Data Destruction
 
+Disable FAC
+
+Multithreading
+
+UAC Configurator 
+
+Memory Settings
+
+Bypasser 
+
+Protect Process
+
+Immortal Process
+
+Kill Process
+
 Inter-Process Communication (IPC)
 
 Named Pipes
