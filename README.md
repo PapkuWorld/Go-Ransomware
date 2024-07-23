@@ -2,7 +2,7 @@ This software is intended for educational purposes only. It should never be used
 
 C2
 
-Presistance Settings 
+Presistance 
 
 Data Exfiltration
 
