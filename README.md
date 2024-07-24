@@ -55,3 +55,5 @@ Background Image Changer
 Text File Generation 
 
 Code Randomization
+
+Timer with actions 
